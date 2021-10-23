@@ -16,11 +16,30 @@ body {
 ul {
     padding-right: 5px;
     padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    float:right;
 }
 li {
+    font-family: Arial;
+    font-size: 18px;
+    letter-spacing: 2px;
     color:white;
     float:right;
     margin: 0 10px;
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+li a {
+    color:white;
+}
+li a:hover {
+    color:gray;
+}
+.active {
+    border: 2px solid white;
 }
 #header-image {
     width: 100%;
