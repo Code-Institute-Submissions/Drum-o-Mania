@@ -11,6 +11,16 @@ h2 {
     color:white;
     padding-top: 30px;
 }
+h4 {
+    font-family: Arial;
+    color:white;
+}
+footer p {
+    font-family: Arial;
+    font-size: 12px;
+    color:white;
+    padding-top: 5px;
+}
 #logo {
     font-family: Arial;
     font-size: 300%;
@@ -88,10 +98,17 @@ li a:hover {
     height: 100%;
     background-color: #1d1c1c;
     margin: 0 auto;
+    overflow: hidden;
 }
 .content2 {
     width: 50%;
     height: 100%;
     background-color: #1d1c1c;
     margin: 0 auto;
+    overflow: hidden;
+}
+footer {
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
