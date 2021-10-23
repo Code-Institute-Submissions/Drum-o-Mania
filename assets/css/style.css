@@ -38,6 +38,20 @@ li {
 a {
     text-decoration: none;
 }
+form {
+    font-size: 120%;
+    font-family: Arial;
+    text-align: center;
+    color:white;
+    margin-top: 50px;
+}
+input {
+    height: 30px;
+    width: 150px;
+}
+#submit:hover {
+    background-color:skyblue;
+}
 li a {
     color:white;
 }
@@ -54,14 +68,27 @@ li a:hover {
     background-color: #1d1c1c;
     overflow:hidden;
 }
-.wrapper {
+.wrapper1 {
     width: 80%;
     height: 1100px;
     background-color: #1d1c1c;
     overflow:hidden;
     margin: 0 auto;
 }
-.content {
+.wrapper2 {
+    width: 80%;
+    height: 400px;
+    background-color: #1d1c1c;
+    overflow:hidden;
+    margin: 0 auto;
+}
+.content1 {
+    width: 50%;
+    height: 100%;
+    background-color: #1d1c1c;
+    margin: 0 auto;
+}
+.content2 {
     width: 50%;
     height: 100%;
     background-color: #1d1c1c;
