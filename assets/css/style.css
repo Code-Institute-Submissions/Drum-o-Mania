@@ -11,9 +11,21 @@ h2 {
     color:white;
     padding-top: 30px;
 }
+h3 {
+    font-family: Arial;
+    color:white;
+    padding-left: 10px;
+    padding-top: 5px;
+}
 h4 {
     font-family: Arial;
     color:white;
+}
+#overlay h4 {
+    font-family: Arial;
+    color:white;
+    padding-left: 10px;
+    text-decoration: underline;
 }
 footer p {
     font-family: Arial;
@@ -22,20 +34,28 @@ footer p {
     padding-top: 5px;
 }
 #logo {
-    font-family: Arial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 300%;
+    letter-spacing: 2px;
     padding-left:5px;
     color:white;
     float:left;
 }
 ul {
+    font-family: Arial;
+    font-size: 12px;
+    color:white;
+    padding-left:25px;
+    padding-top: 10px;
+}
+nav ul {
     padding-right: 5px;
     padding-top: 20px;
     display: flex;
     flex-direction: row;
     float:right;
 }
-li {
+nav li {
     font-family: Arial;
     font-size: 18px;
     letter-spacing: 2px;
@@ -54,7 +74,7 @@ form {
     font-family: Arial;
     text-align: center;
     color:white;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 input {
     height: 30px;
@@ -78,6 +98,17 @@ li a:hover {
     background: url('../images/drums-5.jpg') no-repeat center top;
     background-color: #1d1c1c;
     overflow:hidden;
+}
+#overlay {
+    font-size: 110%;
+    font-family: Arial;
+    letter-spacing: 4px;
+    background-color: rgba(5, 88, 109, 0.8);
+    width: 400px;
+    height: 300px;
+    bottom: 200px;
+    right: 50px;
+    position: absolute;
 }
 .wrapper1 {
     width: 80%;
