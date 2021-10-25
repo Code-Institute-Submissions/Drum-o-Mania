@@ -361,6 +361,15 @@ footer {
         height: 215px;
         margin-bottom: 100px;
     }
+
+    .content1 {
+        width:100%;
+    }
+
+    iframe {
+        width: auto;
+        height: auto;
+    }
 }
 
 @media screen and (max-width:360px) {
