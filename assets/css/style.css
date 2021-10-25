@@ -265,10 +265,12 @@ footer {
 @media screen and (max-width:565px) {
     #logo {
         font-size: 150%;
+        padding-top: 7px;
     }
 
     nav li {
         font-size: 6px;
+        margin-bottom: 17px;
     }
 
     #overlay {
@@ -313,11 +315,23 @@ footer {
 @media screen and (max-width:447px) {
     #logo {
         font-size: 110%;
-        padding-top: 10px;
+        padding-top: 11px;
     }
 
     nav li {
         font-size: 5px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width:406px) {
+    #logo {
+        font-size: 100%;
+        padding-top: 11px;
+    }
+
+    nav li {
+        font-size: 4px;
         margin-bottom: 20px;
     }
 }
