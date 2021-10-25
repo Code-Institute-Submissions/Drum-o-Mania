@@ -40,6 +40,10 @@ form h4 {
     padding-left: 10px;
 }
 
+#overlay li {
+    padding: 10px;
+}
+
 footer p {
     font-family: Arial;
     font-size: 12px;
