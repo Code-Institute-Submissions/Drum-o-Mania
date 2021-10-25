@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;800&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -9,13 +11,13 @@ body {
 }
 
 h2 {
-    font-family: Arial;
+    font-family: Poppins, sans-serif;;
     color:white;
     padding-top: 30px;
 }
 
 h3 {
-    font-family: Arial;
+    font-family: Poppins, sans-serif;;
     color:white;
     padding-left: 10px;
     padding-top: 5px;
@@ -26,8 +28,12 @@ h4 {
     color:white;
 }
 
+form h4 {
+    font-family: Poppins, sans-serif;
+}
+
 #overlay h4 {
-    font-family: Arial;
+    font-family: Poppins, sans-serif;;
     color:white;
     padding-left: 10px;
     text-decoration: underline;
@@ -41,8 +47,10 @@ footer p {
 }
 
 #logo {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Poppins, sans-serif;
     font-size: 300%;
+    font-weight: 800;
+    text-transform: uppercase;
     letter-spacing: 2px;
     padding-left:5px;
     color:white;
@@ -50,7 +58,7 @@ footer p {
 }
 
 ul {
-    font-family: Arial;
+    font-family: Poppins, sans-serif;
     font-size: 12px;
     color:white;
     padding-left:25px;
@@ -66,8 +74,9 @@ nav ul {
 }
 
 nav li {
-    font-family: Arial;
+    font-family: Poppins, sans-serif;
     font-size: 18px;
+    font-weight: 800;
     letter-spacing: 2px;
     color:white;
     float:right;
@@ -83,7 +92,7 @@ a {
 
 form {
     font-size: 120%;
-    font-family: Arial;
+    font-family: Poppins, sans-serif;;
     text-align: center;
     color:white;
     margin-top: 20px;
