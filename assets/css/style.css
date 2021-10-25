@@ -96,7 +96,7 @@ a {
 }
 
 form {
-    font-size: 120%;
+    font-size: 18px;
     font-family: Poppins, sans-serif;
     text-align: center;
     color:white;
@@ -144,7 +144,7 @@ li a:hover {
 }
 
 #overlay {
-    font-size: 110%;
+    font-size: 100%;
     font-family: Arial;
     letter-spacing: 4px;
     background-color: rgba(5, 88, 109, 0.8);
@@ -192,4 +192,34 @@ footer {
     text-align: center;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+/* Media queries */
+
+@media screen and (max-width:890px) {
+    #logo {
+        font-size: 240%;
+    }
+
+    nav li {
+        font-size: 14px;
+    }
+
+    #overlay {
+        font-size: 75%;
+        width: 400px;
+        height: 280px;
+    }
+
+    #overlay li {
+        font-size: 70%;
+    }
+
+    footer h4 {
+        font-size: 80%;
+    }
+
+    footer p {
+        font-size: 60%;
+    }
 }
