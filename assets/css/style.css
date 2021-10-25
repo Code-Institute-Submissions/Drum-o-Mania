@@ -251,3 +251,73 @@ footer {
         font-size: 50%;
     }
 }
+
+@media screen and (max-width:620px) {
+    #logo {
+        font-size: 190%;
+    }
+
+    nav li {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width:565px) {
+    #logo {
+        font-size: 150%;
+    }
+
+    nav li {
+        font-size: 6px;
+    }
+
+    #overlay {
+        font-size: 35%;
+        width: 230px;
+        height: 200px;
+    }
+
+    #overlay li {
+        font-size: 40%;
+    }
+
+    footer h4 {
+        font-size: 60%;
+    }
+
+    footer p {
+        font-size: 45%;
+    }
+}
+
+@media screen and (max-width:480px) {
+    #logo {
+        font-size: 150%;
+    }
+
+    nav li {
+        font-size: 5px;
+    }
+}
+
+@media screen and (max-width:467px) {
+    #logo {
+        font-size: 140%;
+    }
+
+    nav li {
+        font-size: 5px;
+    }
+}
+
+@media screen and (max-width:447px) {
+    #logo {
+        font-size: 110%;
+        padding-top: 10px;
+    }
+
+    nav li {
+        font-size: 5px;
+        margin-bottom: 20px;
+    }
+}
