@@ -140,6 +140,7 @@ li a:hover {
     height: 550px;
     background: url('../images/drums-5.jpg') no-repeat center top;
     background-color: #1d1c1c;
+    background-size: cover;
     overflow:hidden;
 }
 
@@ -310,6 +311,13 @@ footer {
     nav li {
         font-size: 5px;
     }
+
+    #overlay {
+        font-size: 35%;
+        width: 200px;
+        height: 215px;
+        margin-bottom: 100px;
+    }
 }
 
 @media screen and (max-width:447px) {
@@ -333,5 +341,71 @@ footer {
     nav li {
         font-size: 4px;
         margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width:375px) {
+    #logo {
+        font-size: 90%;
+        padding-top: 11px;
+    }
+
+    nav li {
+        font-size: 4px;
+        margin-bottom: 20px;
+    }
+
+    #overlay {
+        font-size: 35%;
+        width: 200px;
+        height: 215px;
+        margin-bottom: 100px;
+    }
+}
+
+@media screen and (max-width:360px) {
+    #logo {
+        font-size: 70%;
+        padding-top: 12px;
+    }
+
+    nav li {
+        font-size: 4px;
+        margin-bottom: 12px;
+        letter-spacing: 1px;
+    }
+
+    #overlay {
+        font-size: 35%;
+        width: 200px;
+        height: 215px;
+        margin-bottom: 20px;
+    }
+}
+
+@media screen and (max-width:280px) {
+    #logo {
+        font-size: 70%;
+        padding-top: 12px;
+    }
+
+    nav li {
+        font-size: 4px;
+        margin-bottom: 12px;
+        margin-left: 2px;
+        margin-right: 2px;
+        letter-spacing: 1px;
+    }
+}
+
+@media screen and (min-height:1024px) {
+    #overlay {
+        margin-bottom: 250px;
+    }
+}
+
+@media screen and (min-height:1366px) {
+    #overlay {
+        margin-bottom: 600px;
     }
 }
