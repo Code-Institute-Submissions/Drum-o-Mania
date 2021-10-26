@@ -117,6 +117,7 @@ label {
     height: 20px;
     width: 100px;
     border-radius: 4px;
+    margin-bottom: 10px;
 }
 
 #submit:hover {
@@ -159,7 +160,7 @@ li a:hover {
 
 .wrapper1 {
     width: 80%;
-    height: 1200px;
+    height: inherit;
     background-color: #1d1c1c;
     overflow:hidden;
     margin: 0 auto;
@@ -167,7 +168,7 @@ li a:hover {
 
 .wrapper2 {
     width: 80%;
-    height: 460px;
+    height: inherit;
     background-color: #1d1c1c;
     overflow:hidden;
     margin: 0 auto;
@@ -345,6 +346,10 @@ footer {
         font-size: 5px;
         margin-bottom: 20px;
     }
+
+    h2 {
+        font-size: 90%;
+    }
 }
 
 @media screen and (max-width:406px) {
@@ -377,13 +382,26 @@ footer {
         margin-bottom: 100px;
     }
 
-    .content1 {
-        width:100%;
+    h2 {
+        font-size: 80%;
     }
 
-    iframe {
-        width: auto;
-        height: auto;
+    form {
+        font-size: 80%;
+    }
+    input {
+        height: 20px;
+        width: 130px;
+    }
+    
+    label {
+        font-size: 75%;
+    }
+    
+    #submit {
+        height: 18px;
+        width: 90px;
+        border-radius: 4px;
     }
 }
 
@@ -419,6 +437,14 @@ footer {
         margin-left: 2px;
         margin-right: 2px;
         letter-spacing: 1px;
+    }
+
+    h2 {
+        font-size: 60%;
+    }
+
+    input {
+        height: 17px;
     }
 }
 
