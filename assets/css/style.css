@@ -70,10 +70,10 @@ ul {
     padding-top: 10px;
 }
 
-nav ul {
+nav ul {  
     padding-right: 5px;
     padding-top: 20px;
-    display: flex;
+    display: flex;      /* Modified from https://stackoverflow.com/questions/35923720/reverse-ul-ordering-using-css-2-1 */
     flex-direction: row;
     float:right;
 }
@@ -190,7 +190,7 @@ li a:hover {
     overflow: hidden;
 }
 
-.video-wrapper {
+.video-wrapper {        /* Code from https://stackoverflow.com/questions/17838607/making-an-iframe-responsive */
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 25px;
