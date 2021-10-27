@@ -2,7 +2,9 @@
 
 DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their craft and have fun while doing so, regardless of their age and experience. The online format is perfect for learning at your own pace, at your prefered location.
 
+---
 ## **Features**
+
 - **Navigation bar**
     - Featured at the top of all pages, the navigation bar displays the logo 'DRUM-O-MANIA' to the left, as well as links to the left to all three pages: Home, Lesson Previews and Signup.
     - The lets the user easily switch between pages and also cleary indicates which page they are currently on.
@@ -15,20 +17,27 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
     - The overlay is positioned to the right and has a transparent background color to blend in better with the general look of the site.
 
 - **Lesson Previews**
-    - The lesson preview page displays a sample of what the video lessons look like, and what can be expected.
+    - The lesson preview page displays a sample of the video lessons to let the user know what can be expected.
     - The videos are sorted according to genre. 
+
 - **Signup Form**
+    - The signup page lets the user sign up to get access to the sites entire library of video lessons.
+    - This section has a simple form to collect the users first name, last name and email adress. Everything is clearly labeled.
 
 - **Footer**
-
-
+    - The footer is located at the bottom of every page and works as a simple contact section. It has a small header with the text 'Contact Us' and an email adress below it, centered to the page.
+---
 ### Testing
 
 ### Validator Testing
+- HTML
+    - No errors were found when passing through the official W3C Validator
 
-
+- CSS
+    - No errors were found when passing through the official (Jigsaw) Validator
+---
 ## Deployment
-
+---
 ## Credits
 ---
 ### Content
