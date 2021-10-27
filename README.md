@@ -36,14 +36,16 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 
 - I have tested that this website is responsive, looks good and works as intended on the different standard screen sizes, using the devtools device toolbar in Google Chrome.
 
+- I have tested that this website works in different browsers: Chrome, Safari, Firefox.
+
 - I have confirmed that the navigation bar is fully functional, hovering over the link changes the color, staying on a specific page activates an underline of that link, and the links direct you to the correct page. 
 
 ### Validator Testing
 - HTML
-    - No errors were found when passing through the official W3C Validator
+    - No errors were found when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjonathanrange.github.io%2FDrum-o-Mania%2F)
 
 - CSS
-    - No errors were found when passing through the official (Jigsaw) Validator
+    - No errors were found when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjonathanrange.github.io%2FDrum-o-Mania%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 ## Deployment
 
@@ -52,7 +54,7 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
     - From the source section drop-down menu, select the Master Branch
     - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here: 
+The live link can be found here: [DRUM-O-MANIA](https://jonathanrange.github.io/Drum-o-Mania/)
 
 
 ## Credits
