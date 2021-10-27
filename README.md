@@ -29,6 +29,10 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 ---
 ### Testing
 
+- I have tested that this website is responsive, looks good and works as intended on the different standard screen sizes, using the devtools device toolbar in Google Chrome.
+
+- I have confirmed that the navigation bar is fully functional, hovering over the link changes the color, staying on a specific page activates an underline of that link, and the links direct you to the correct page. 
+
 ### Validator Testing
 - HTML
     - No errors were found when passing through the official W3C Validator
@@ -37,6 +41,14 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
     - No errors were found when passing through the official (Jigsaw) Validator
 ---
 ## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+    - In the GitHub repository, navigate to the Settings tab
+    - From the source section drop-down menu, select the Master Branch
+    - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here: 
+
 ---
 ## Credits
 ---
