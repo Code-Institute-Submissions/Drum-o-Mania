@@ -2,7 +2,8 @@
 
 DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their craft and have fun while doing so, regardless of their age and experience. The online format is perfect for learning at your own pace, at your prefered location.
 
----
+![Front page image](media/index.png)
+
 ## **Features**
 
 - **Navigation bar**
@@ -18,15 +19,19 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 
 - **Lesson Previews**
     - The lesson preview page displays a sample of the video lessons to let the user know what can be expected.
-    - The videos are sorted according to genre. 
+    - The videos are sorted according to genre.
+
+![Lesson previews](media/previews.png)
 
 - **Signup Form**
     - The signup page lets the user sign up to get access to the sites entire library of video lessons.
     - This section has a simple form to collect the users first name, last name and email adress. Everything is clearly labeled.
 
+![Signup Form](media/signup.png)
+
 - **Footer**
     - The footer is located at the bottom of every page and works as a simple contact section. It has a small header with the text 'Contact Us' and an email adress below it, centered to the page.
----
+
 ### Testing
 
 - I have tested that this website is responsive, looks good and works as intended on the different standard screen sizes, using the devtools device toolbar in Google Chrome.
@@ -39,7 +44,7 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 
 - CSS
     - No errors were found when passing through the official (Jigsaw) Validator
----
+
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -49,9 +54,9 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 
 The live link can be found here: 
 
----
+
 ## Credits
----
+
 ### Content
 - The code to reverse the order of the navbar was modified from [Stackoverflow](https://stackoverflow.com/questions/35923720/reverse-ul-ordering-using-css-2-1)
 
