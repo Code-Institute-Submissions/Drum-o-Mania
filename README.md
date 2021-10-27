@@ -38,7 +38,11 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 
 - I have tested that this website works in different browsers: Chrome, Safari, Firefox.
 
+- I have confirmed that the audio/video controls are fully functional.
+
 - I have confirmed that the navigation bar is fully functional, hovering over the link changes the color, staying on a specific page activates an underline of that link, and the links direct you to the correct page. 
+
+- I have confirmed that the form works, the email field will only accept text in email format and the submit button works.
 
 ### Validator Testing
 - HTML
@@ -46,6 +50,9 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 
 - CSS
     - No errors were found when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjonathanrange.github.io%2FDrum-o-Mania%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
+
+### Unfixed Bugs
+No unfixed bugs
 
 ## Deployment
 
@@ -55,7 +62,6 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
     - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here: [DRUM-O-MANIA](https://jonathanrange.github.io/Drum-o-Mania/)
-
 
 ## Credits
 
