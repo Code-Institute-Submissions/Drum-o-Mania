@@ -1,6 +1,6 @@
 # DRUM-O-MANIA
 
-DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their craft and have fun while doing so, regardless of their age and experience. The online format is perfect for learning at your own pace, at your prefered location.
+DRUM-O-MANIA is a website with one specific goal - to help drummers perfect their craft and have fun while doing so, regardless of their age and experience. The online format is perfect for learning at your own pace, at your prefered location.
 
 ![Front page image](media/index.png)
 
@@ -8,14 +8,14 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 
 - **Navigation bar**
     - Featured at the top of all pages, the navigation bar displays the logo 'DRUM-O-MANIA' to the left, as well as links to the left to all three pages: Home, Lesson Previews and Signup.
-    - The lets the user easily switch between pages and also cleary indicates which page they are currently on.
+    - This section lets the user easily switch between pages and also cleary indicates which page they are currently on.
 
 - **Front page image**
     - The front page includes a photograph of a drummer. The idea is create an exciting vibe right from the start.
 
 - **Front page overlay**
     - The front page has an overlay to the right explaining what the site is for. It also displays a list of what is included in the video lessons.
-    - The overlay is positioned to the right and has a transparent background color to blend in better with the general look of the site.
+    - The overlay is positioned to the side and has a transparent background color to blend in better with the general look of the site.
 
 - **Lesson Previews**
     - The lesson preview page displays a sample of the video lessons to let the user know what can be expected.
@@ -30,7 +30,7 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 ![Signup Form](media/signup.png)
 
 - **Footer**
-    - The footer is located at the bottom of every page and works as a simple contact section. It has a small header with the text 'Contact Us' and an email adress below it, centered to the page.
+    - The footer is located at the bottom of every page and works as a simple contact section. It has a small header with the text 'Contact Us' and an email address below it, centered to the page.
 
 ### Testing
 
@@ -40,7 +40,7 @@ DRUM-O-MANIA is a site with one specific goal - To help drummers perfect their c
 
 - I have confirmed that the audio/video controls are fully functional.
 
-- I have confirmed that the navigation bar is fully functional, hovering over the link changes the color, staying on a specific page activates an underline of that link, and the links direct you to the correct page. 
+- I have confirmed that the navigation bar is fully functional. Hovering over the link changes the color, staying on a specific page activates an underline of that link, and the links direct you to the correct page. 
 
 - I have confirmed that the form works, the email field will only accept text in email format and the submit button works.
 
